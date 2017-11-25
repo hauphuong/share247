@@ -1,0 +1,19 @@
+{
+  "name": "share247",
+  "version": "1.0.0",
+  "description": "share everything 247",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hauphuong/share247.git"
+  },
+  "author": "haulv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hauphuong/share247/issues"
+  },
+  "homepage": "https://github.com/hauphuong/share247#readme"
+}
