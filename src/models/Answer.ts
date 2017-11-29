@@ -39,6 +39,8 @@ answerSchema.pre('save', function(next) {
     next();
 });
 
+
+
 const AnswerModel = model('Answer', answerSchema);
 
 export class Answer extends AnswerModel{
